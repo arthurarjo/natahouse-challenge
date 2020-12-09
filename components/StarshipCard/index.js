@@ -4,8 +4,6 @@ import Image from "next/image";
 
 import styles from "./StarshipCard.module.css";
 
-//import carbonRocket from "assets/images/carbon_rocket.png";
-
 const StarshipCard = ({ name, mglt, stops }) => {
   return (
     <div className={styles.cardWrapper}>
