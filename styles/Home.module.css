@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.header h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 38px;
+  line-height: 50px;
+}
+
+.starshipList {
+  margin-top: 25px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
