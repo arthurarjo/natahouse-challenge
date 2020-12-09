@@ -1,7 +1,8 @@
 .cardWrapper {
-  width: 20%;
+  width: 19%;
   background: #000000;
   padding: 10px;
+  margin: 15px 5px;
 }
 .cardInner {
   background: #000000;

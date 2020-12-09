@@ -14,9 +14,9 @@
 }
 
 .starshipList {
-  margin-top: 25px;
   padding: 0 25px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  justify-content: center;
 }
