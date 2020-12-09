@@ -1,0 +1,19 @@
+.cardWrapper {
+  width: 20%;
+  background: #000000;
+  padding: 10px;
+}
+.cardInner {
+  background: #000000;
+  border: 3px solid rgba(var(--main-yellow), 0.5);
+  color: rgba(var(--main-yellow), 1);
+  font-family: "Press Start 2P", cursive;
+  text-align: center;
+  width: 100%;
+  padding: 20px;
+  min-height: 300px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
