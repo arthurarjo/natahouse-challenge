@@ -1,5 +1,5 @@
 import axios from "axios";
-import { calculateConsumablesTime } from "../helpers/starships";
+import { calculateConsumablesTime } from "helpers/starships";
 
 const BASE_URL = "https://swapi.dev/api";
 
